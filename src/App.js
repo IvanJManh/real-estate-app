@@ -282,12 +282,13 @@ function App() {
         document.removeEventListener('drop', handleGlobalDrop);
     };
   });
-
+  
   return (
-    <Router>
+    <>
       <header>
         <h1>EstateFinder</h1>
       </header>
+
       <Routes>
         <Route path="/" element={
           <SearchPage 
@@ -301,6 +302,7 @@ function App() {
             clearFavoritesList={clearFavorites}
           />
         } />
+
         <Route path="/property/:id" element={
           <PropertyDetails 
             properties={properties} 
@@ -308,7 +310,7 @@ function App() {
           />
         } />
       </Routes>
-    </Router>
+    </>
   );
 }
 

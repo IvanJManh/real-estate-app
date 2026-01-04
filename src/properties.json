@@ -8,17 +8,17 @@
     "postcode": "BR1",
     "location": "Bromley, London",
     "description": "A charming Victorian terrace with a spacious garden.",
-    "longDescription": "This beautiful 3-bedroom house features original fireplaces, a modern kitchen extension, and a 50ft south-facing garden. Located near local schools and transport links.",
+    "longDescription": "This well-presented Victorian family home offers spacious living across two floors. The property benefits from a bright open-plan kitchen, original period features, and a private rear garden ideal for entertaining. Situated within walking distance of Bromley South station, local schools, and shopping facilities.",
     "images": [
-      "/images/prop1/im1.jpg",
-      "https://placehold.co/600x400?text=Living+Room",
-      "https://placehold.co/600x400?text=Kitchen",
-      "https://placehold.co/600x400?text=Bedroom+1",
-      "https://placehold.co/600x400?text=Bedroom+2",
-      "https://placehold.co/600x400?text=Garden"
+      "/real-estate-app/images/prop1/home.jpg",
+      "/real-estate-app/images/prop1/bedroom1.jpg",
+      "/real-estate-app/images/prop1/bedroom2.jpg",
+      "/real-estate-app/images/prop1/garden.jpg",
+      "/real-estate-app/images/prop1/kitchen.jpg",
+      "/real-estate-app/images/prop1/livingroom.jpg"
     ],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+A",
-    "map": "https://maps.google.com/maps?q=Bromley&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    "floorPlan": "/real-estate-app/images/prop1/floor.jpg",
+    "map": "Nearest Station: Bromley South, Nearby Schools: Oakwood Primary School, Area Type: Residential suburb"
   },
   {
     "id": "prop2",
@@ -31,14 +31,14 @@
     "description": "Modern apartment moments from the canal.",
     "longDescription": "A sleek 1-bedroom flat in the heart of Camden. Features floor-to-ceiling windows, concierge service, and a communal roof terrace.",
     "images": [
-      "https://placehold.co/600x400?text=Flat+1+Main",
-      "https://placehold.co/600x400?text=Kitchen",
-      "https://placehold.co/600x400?text=Bath",
-      "https://placehold.co/600x400?text=View",
-      "https://placehold.co/600x400?text=Hall",
-      "https://placehold.co/600x400?text=Bedroom"
+      "/real-estate-app/images/prop2/house.jpg",
+      "/real-estate-app/images/prop2/bedroom1.jpg",
+      "/real-estate-app/images/prop2/bedroom2.jpg",
+      "/real-estate-app/images/prop2/garden.jpg",
+      "/real-estate-app/images/prop2/kitchen.jpg",
+      "/real-estate-app/images/prop2/livingroom.jpg"
     ],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+B",
+    "floorPlan": "/real-estate-app/images/prop2/floor.jpg",
     "map": "https://maps.google.com/maps?q=Camden+Town&t=&z=13&ie=UTF8&iwloc=&output=embed"
   },
   {
@@ -51,8 +51,15 @@
     "location": "Sundridge Park, Bromley",
     "description": "Large detached family home with garage.",
     "longDescription": "An expansive 5-bedroom detached home. Includes a double garage, en-suite to master, and huge potential for loft conversion.",
-    "images": ["https://placehold.co/600x400?text=House+2", "https://placehold.co/600x400?text=Room+1", "https://placehold.co/600x400?text=Room+2", "https://placehold.co/600x400?text=Room+3", "https://placehold.co/600x400?text=Room+4", "https://placehold.co/600x400?text=Room+5"],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+C",
+    "images": [
+      "/real-estate-app/images/prop3/house.jpg",
+      "/real-estate-app/images/prop3/bedroom1.jpg",
+      "/real-estate-app/images/prop3/bedroom2.jpg",
+      "/real-estate-app/images/prop3/garden.jpg",
+      "/real-estate-app/images/prop3/kitchen.jpg",
+      "/real-estate-app/images/prop3/livingroom.jpg"
+    ],
+    "floorPlan": "/real-estate-app/images/prop3/floor.jpg",
     "map": "https://maps.google.com/maps?q=Sundridge+Park&t=&z=13&ie=UTF8&iwloc=&output=embed"
   },
   {
@@ -65,8 +72,15 @@
     "location": "Bermondsey, London",
     "description": "Stylish warehouse conversion.",
     "longDescription": "Exposed brickwork and high ceilings define this 2-bed flat. Close to London Bridge and trendy markets.",
-    "images": ["https://placehold.co/600x400?text=Flat+2", "https://placehold.co/600x400?text=Int+1", "https://placehold.co/600x400?text=Int+2", "https://placehold.co/600x400?text=Int+3", "https://placehold.co/600x400?text=Int+4", "https://placehold.co/600x400?text=Int+5"],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+D",
+    "images": [
+      "/real-estate-app/images/prop4/house.jpg",
+      "/real-estate-app/images/prop4/bedroom1.jpg",
+      "/real-estate-app/images/prop4/bedroom2.jpg",
+      "/real-estate-app/images/prop4/garden.jpg",
+      "/real-estate-app/images/prop4/kitchen.jpg",
+      "/real-estate-app/images/prop4/livingroom.jpg"
+    ],
+    "floorPlan": "/real-estate-app/images/prop4/floor.jpg",
     "map": "https://maps.google.com/maps?q=Bermondsey&t=&z=13&ie=UTF8&iwloc=&output=embed"
   },
   {
@@ -79,8 +93,15 @@
     "location": "Primrose Hill, London",
     "description": "Cottage style home near the park.",
     "longDescription": "Rare opportunity to acquire a cottage in NW1. Quiet street, private patio, and 3 cozy bedrooms.",
-    "images": ["https://placehold.co/600x400?text=House+3", "https://placehold.co/600x400?text=Int+1", "https://placehold.co/600x400?text=Int+2", "https://placehold.co/600x400?text=Int+3", "https://placehold.co/600x400?text=Int+4", "https://placehold.co/600x400?text=Int+5"],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+E",
+    "images": [
+      "/real-estate-app/images/prop5/house.jpg",
+      "/real-estate-app/images/prop5/bedroom1.jpg",
+      "/real-estate-app/images/prop5/bedroom2.jpg",
+      "/real-estate-app/images/prop5/garden.jpg",
+      "/real-estate-app/images/prop5/kitchen.jpg",
+      "/real-estate-app/images/prop5/livingroom.jpg"
+    ],
+    "floorPlan": "/real-estate-app/images/prop5/floor.jpg",
     "map": "https://maps.google.com/maps?q=Primrose+Hill&t=&z=13&ie=UTF8&iwloc=&output=embed"
   },
   {
@@ -93,8 +114,15 @@
     "location": "Croydon, London",
     "description": "Perfect starter home for first time buyers.",
     "longDescription": "Affordable 1-bed flat near East Croydon station. ideal for commuters. Low service charge.",
-    "images": ["https://placehold.co/600x400?text=Flat+3", "https://placehold.co/600x400?text=Int+1", "https://placehold.co/600x400?text=Int+2", "https://placehold.co/600x400?text=Int+3", "https://placehold.co/600x400?text=Int+4", "https://placehold.co/600x400?text=Int+5"],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+F",
+    "images": [
+      "/real-estate-app/images/prop6/house.jpg",
+      "/real-estate-app/images/prop6/bedroom1.jpg",
+      "/real-estate-app/images/prop6/bedroom2.jpg",
+      "/real-estate-app/images/prop6/garden.jpg",
+      "/real-estate-app/images/prop6/kitchen.jpg",
+      "/real-estate-app/images/prop6/livingroom.jpg"
+    ],
+    "floorPlan": "/real-estate-app/images/prop6/floor.jpg",
     "map": "https://maps.google.com/maps?q=Croydon&t=&z=13&ie=UTF8&iwloc=&output=embed"
   },
   {
@@ -107,8 +135,15 @@
     "location": "Wimbledon, London",
     "description": "Luxury mansion with swimming pool.",
     "longDescription": "Exclusive gated property. 6 bedrooms, 4 bathrooms, heated pool, cinema room and double garage.",
-    "images": ["https://placehold.co/600x400?text=Mansion", "https://placehold.co/600x400?text=Pool", "https://placehold.co/600x400?text=Cinema", "https://placehold.co/600x400?text=Bed1", "https://placehold.co/600x400?text=Bed2", "https://placehold.co/600x400?text=Bed3"],
-    "floorPlan": "https://placehold.co/600x400?text=Floor+Plan+G",
+    "images": [
+      "/real-estate-app/images/prop7/house.jpg",
+      "/real-estate-app/images/prop7/bedroom1.jpg",
+      "/real-estate-app/images/prop7/bedroom2.jpg",
+      "/real-estate-app/images/prop7/garden.jpg",
+      "/real-estate-app/images/prop7/kitchen.jpg",
+      "/real-estate-app/images/prop7/livingroom.jpg"
+    ],
+    "floorPlan": "/real-estate-app/images/prop7/floor.jpg",
     "map": "https://maps.google.com/maps?q=Wimbledon&t=&z=13&ie=UTF8&iwloc=&output=embed"
   }
 ]
